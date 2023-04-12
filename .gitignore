@@ -1,0 +1,21 @@
+# dependencies
+/be-nikah/node_modules
+/fe-nikah/node_modules
+/fe-nikah/.pnp
+/fe-nikah/.pnp.js
+# testing
+/fe-nikah/coverage
+
+# production
+/fe-nikah/build
+
+# misc
+/fe-nikah/.DS_Store
+/fe-nikah/.env.local
+/fe-nikah/.env.development.local
+/fe-nikah/.env.test.local
+/fe-nikah/.env.production.local
+
+/fe-nikah/npm-debug.log*
+/fe-nikah/yarn-debug.log*
+/fe-nikah/yarn-error.log*
